@@ -1,0 +1,18 @@
+C:\Data\My Documents\Visual Studio 2012\Projects\TimeMatters\TimeMatters\bin\Debug\APIObjects.dll.config
+C:\Data\My Documents\Visual Studio 2012\Projects\TimeMatters\TimeMatters\bin\Debug\APIObjects.dll
+C:\Data\My Documents\Visual Studio 2012\Projects\TimeMatters\TimeMatters\bin\Debug\APIObjects.pdb
+C:\Data\My Documents\Visual Studio 2012\Projects\TimeMatters\TimeMatters\bin\Debug\PLConvert.dll
+C:\Data\My Documents\Visual Studio 2012\Projects\TimeMatters\TimeMatters\bin\Debug\Interop.PLXMLLnkLib.dll
+C:\Data\My Documents\Visual Studio 2012\Projects\TimeMatters\TimeMatters\bin\Debug\ConvHelper.dll
+C:\Data\My Documents\Visual Studio 2012\Projects\TimeMatters\TimeMatters\obj\Debug\APIObjects.dll
+C:\Data\My Documents\Visual Studio 2012\Projects\TimeMatters\TimeMatters\obj\Debug\APIObjects.pdb
+C:\Data\My Documents\Visual Studio 2012\Projects\TimeMatters\TimeMatters\obj\Debug\APIObjects.csprojResolveAssemblyReference.cache
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\TimeMatters\TimeMatters\bin\Debug\APIObjects.dll.config
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\TimeMatters\TimeMatters\bin\Debug\APIObjects.dll
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\TimeMatters\TimeMatters\bin\Debug\APIObjects.pdb
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\TimeMatters\TimeMatters\obj\Debug\APIObjects.dll
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\TimeMatters\TimeMatters\obj\Debug\APIObjects.pdb
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\TimeMatters\TimeMatters\bin\Debug\PLConvert.dll
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\TimeMatters\TimeMatters\bin\Debug\Interop.PLXMLLnkLib.dll
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\TimeMatters\TimeMatters\bin\Debug\ConvHelper.dll
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\TimeMatters\TimeMatters\obj\Debug\APIObjects.csprojResolveAssemblyReference.cache

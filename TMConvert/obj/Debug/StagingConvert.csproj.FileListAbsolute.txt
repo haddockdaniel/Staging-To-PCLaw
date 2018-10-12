@@ -1,0 +1,35 @@
+C:\Data\My Documents\Visual Studio 2012\Projects\TimeMatters\TMConvert\bin\Debug\StagingConvert.exe.config
+C:\Data\My Documents\Visual Studio 2012\Projects\TimeMatters\TMConvert\bin\Debug\StagingConvert.exe
+C:\Data\My Documents\Visual Studio 2012\Projects\TimeMatters\TMConvert\bin\Debug\StagingConvert.pdb
+C:\Data\My Documents\Visual Studio 2012\Projects\TimeMatters\TMConvert\bin\Debug\APIObjects.dll
+C:\Data\My Documents\Visual Studio 2012\Projects\TimeMatters\TMConvert\bin\Debug\PLConvert.dll
+C:\Data\My Documents\Visual Studio 2012\Projects\TimeMatters\TMConvert\bin\Debug\Interop.PLXMLLnkLib.dll
+C:\Data\My Documents\Visual Studio 2012\Projects\TimeMatters\TMConvert\bin\Debug\ConvHelper.dll
+C:\Data\My Documents\Visual Studio 2012\Projects\TimeMatters\TMConvert\bin\Debug\APIObjects.pdb
+C:\Data\My Documents\Visual Studio 2012\Projects\TimeMatters\TMConvert\obj\Debug\StagingConvert.csprojResolveAssemblyReference.cache
+C:\Data\My Documents\Visual Studio 2012\Projects\TimeMatters\TMConvert\obj\Debug\StagingConvert.FinancialConversionForm.resources
+C:\Data\My Documents\Visual Studio 2012\Projects\TimeMatters\TMConvert\obj\Debug\StagingConvert.frmMain.resources
+C:\Data\My Documents\Visual Studio 2012\Projects\TimeMatters\TMConvert\obj\Debug\StagingConvert.ProgressForm.resources
+C:\Data\My Documents\Visual Studio 2012\Projects\TimeMatters\TMConvert\obj\Debug\StagingConvert.Properties.Resources.resources
+C:\Data\My Documents\Visual Studio 2012\Projects\TimeMatters\TMConvert\obj\Debug\StagingConvert.csproj.GenerateResource.Cache
+C:\Data\My Documents\Visual Studio 2012\Projects\TimeMatters\TMConvert\obj\Debug\StagingConvert.exe
+C:\Data\My Documents\Visual Studio 2012\Projects\TimeMatters\TMConvert\obj\Debug\StagingConvert.pdb
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\TimeMatters\TMConvert\bin\Debug\StagingConvert.exe.config
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\TimeMatters\TMConvert\bin\Debug\StagingConvert.exe
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\TimeMatters\TMConvert\bin\Debug\StagingConvert.pdb
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\TimeMatters\TMConvert\bin\Debug\APIObjects.dll
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\TimeMatters\TMConvert\bin\Debug\PLConvert.dll
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\TimeMatters\TMConvert\bin\Debug\Interop.PLXMLLnkLib.dll
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\TimeMatters\TMConvert\bin\Debug\ConvHelper.dll
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\TimeMatters\TMConvert\bin\Debug\APIObjects.pdb
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\TimeMatters\TMConvert\obj\Debug\StagingConvert.csprojResolveAssemblyReference.cache
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\TimeMatters\TMConvert\obj\Debug\StagingConvert.FinancialConversionForm.resources
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\TimeMatters\TMConvert\obj\Debug\StagingConvert.frmMain.resources
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\TimeMatters\TMConvert\obj\Debug\StagingConvert.ProgressForm.resources
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\TimeMatters\TMConvert\obj\Debug\StagingConvert.Properties.Resources.resources
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\TimeMatters\TMConvert\obj\Debug\StagingConvert.csproj.GenerateResource.Cache
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\TimeMatters\TMConvert\obj\Debug\StagingConvert.exe
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\TimeMatters\TMConvert\obj\Debug\StagingConvert.pdb
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Staging To PCLaw\TMConvert\bin\Debug\StagingConvert.exe.config
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Staging To PCLaw\TMConvert\obj\Debug\StagingConvert.exe
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Staging To PCLaw\TMConvert\obj\Debug\StagingConvert.pdb
